@@ -1,4 +1,4 @@
-name: IBM Cloud Auto Restart GV-LOLITA
+name: IBM Cloud Auto Restart GV-1
 
 on:
   push:
